@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **shashwatsumanat29@gmail.com**
 
-- ⚡ Fun fact **They call me a quick learner.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

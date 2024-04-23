@@ -3,17 +3,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashwatsuman29&label=Profile%20views&color=0e75b6&style=flat" alt="shashwatsuman29" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/shashwatsuman29" target="blank"><img src="https://img.shields.io/twitter/follow/shashwatsuman29?logo=twitter&style=for-the-badge" alt="shashwatsuman29" /></a> </p>
 
-- 🌱 I’m currently learning **Three.js**
+- I’m currently learning **Three.js**
 
 - 💬 Ask me about **Javascript , React , Tailwind, Bootstrap , html , css.**
 
 - 📫 How to reach me **shashwatsumanat29@gmail.com**
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/shashwatsuman29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shashwatsuman29" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/@shashwat suman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@shashwat suman" height="30" width="40" /></a>
+<a href="https://fb.com/@shashwat suman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@shashwat suman" height="30" width="40" /></a>
+<a href="https://instagram.com/@shashwat__says" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@shashwat__says" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
